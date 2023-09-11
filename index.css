@@ -35,7 +35,8 @@ body {
   cursor: pointer;
 
   display: flex;
-  place-content: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .chatbot-toggler span {
